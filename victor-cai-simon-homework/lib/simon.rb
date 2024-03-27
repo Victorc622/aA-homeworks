@@ -37,9 +37,11 @@ class Simon
   end
 
   def round_success_message
+    print "successful round"
   end
 
   def game_over_message
+    print "game over"
   end
 
   def reset_game
